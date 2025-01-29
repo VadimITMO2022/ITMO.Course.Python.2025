@@ -1,2 +1,2 @@
-val = 16
+val = 37
 print(val)
