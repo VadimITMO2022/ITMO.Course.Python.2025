@@ -1,3 +1,3 @@
 import module as m
-print("Guten Tag")
+print("Привет, мир")
 print(f"{m.val}")
