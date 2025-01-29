@@ -1,2 +1,2 @@
-val = 12
+val = 14
 print(val)
